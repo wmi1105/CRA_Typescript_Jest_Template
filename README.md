@@ -5,7 +5,7 @@ toEqual : 객체의 값만 비교
 
 ```
 
-####[expect]
+#### [expect]
 
 ```
 화면에 보이는 것을 찾을 때 expect().toBeInTheDocument();
@@ -13,7 +13,7 @@ toEqual : 객체의 값만 비교
 현재 값을 확인할 때 expect(input).toHaveValue("");  //input이 빈값인지 확인
 ```
 
-####[screen]
+#### [screen]
 
 ```
 * 텍스트 가져오기

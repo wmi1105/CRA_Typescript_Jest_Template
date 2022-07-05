@@ -1,8 +1,6 @@
-```
-** expect({ name: 'son' }).toEqual({ name: 'son' });
+## REACT CRA / TYPESCRIPT / JEST
 
-
-```
+<U></U>
 
 #### [expect]
 

@@ -25,6 +25,8 @@ const button = screen.getByRole("button", { name: "버튼이름" });
 const input = screen.getByRole("textbox");  //<input type="text"/> 찾기
 ```
 
+#### [userEvent]
+
 ```
 유저 이벤트 처리
 userEvent.type(input, "input에 글자 입력 하기");
